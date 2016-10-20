@@ -1,6 +1,7 @@
-/*
-	This program was written by Nicholas Macedo - Van Horne for 	SoCS UoG Software Engineering Program in first year 	university.
-*/
+/*************************nimGame.txt****************************
+Student Name: Nicholas Macedo                  Student Number:
+Date: November 7th 2014                        Course Name: CIS1500
+****************************************************************************/
 #include <stdio.h>
 //Function Prototypes
 void drawNim(int rowOne, int rowTwo, int rowThree);
