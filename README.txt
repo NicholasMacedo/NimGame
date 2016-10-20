@@ -1,5 +1,5 @@
 /*************************README.txt****************************
-Student Name: Nicholas Macedo - Van Horne    Student Number:  0889469
+Student Name: Nicholas Macedo                  Student Number:
 Date: November 7th 2014                        Course Name: CIS1500
 ****************************************************************************/
            
